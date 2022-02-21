@@ -1,0 +1,11 @@
+C:\Users\Nember\Desktop\trpo\prac\Chess_Efremov\Chess_Semenova\bin\Debug\Chess_Efremov.exe.config
+C:\Users\Nember\Desktop\trpo\prac\Chess_Efremov\Chess_Semenova\bin\Debug\Chess_Efremov.exe
+C:\Users\Nember\Desktop\trpo\prac\Chess_Efremov\Chess_Semenova\bin\Debug\Chess_Efremov.pdb
+C:\Users\Nember\Desktop\trpo\prac\Chess_Efremov\Chess_Semenova\obj\Debug\Chess_Efremov.csproj.AssemblyReference.cache
+C:\Users\Nember\Desktop\trpo\prac\Chess_Efremov\Chess_Semenova\obj\Debug\Chess_Efremov.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nember\Desktop\trpo\prac\Chess_Efremov\Chess_Semenova\obj\Debug\Chess_Efremov.Form1.resources
+C:\Users\Nember\Desktop\trpo\prac\Chess_Efremov\Chess_Semenova\obj\Debug\Chess_Efremov.Properties.Resources.resources
+C:\Users\Nember\Desktop\trpo\prac\Chess_Efremov\Chess_Semenova\obj\Debug\Chess_Efremov.csproj.GenerateResource.cache
+C:\Users\Nember\Desktop\trpo\prac\Chess_Efremov\Chess_Semenova\obj\Debug\Chess_Efremov.csproj.CoreCompileInputs.cache
+C:\Users\Nember\Desktop\trpo\prac\Chess_Efremov\Chess_Semenova\obj\Debug\Chess_Efremov.exe
+C:\Users\Nember\Desktop\trpo\prac\Chess_Efremov\Chess_Semenova\obj\Debug\Chess_Efremov.pdb
